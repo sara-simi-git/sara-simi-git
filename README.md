@@ -1,25 +1,12 @@
 # Hi, I'm Sara 👋
-### Full-Stack Developer · .NET · React / Angular · AI Agents & RAG
+**Full-Stack Developer** · .NET · Java / Spring Boot · React / Angular · Python & AI (RAG, Agents, MCP)
 
-I build end-to-end systems: APIs, data layers and user interfaces, and I've worked on a real full-stack project in a 4-month practicum. My recent work focuses on applied AI: RAG pipelines, LLM agents and MCP tool integrations. The projects below span .NET, Java / Spring Boot, Node.js, Python, React and Angular.
+📍 [Israel] · 📧 [sarasimihaloua@gmail.com]
 
-📍 [Israel] · 📧 [sarasimihaloua@gmail.com] 
+**💼 Practicum, Full-Stack (4 months, government security organization):** co-built a project budget management system with ASP.NET Core (C#, MongoDB), React and an analytics dashboard, in an air-gapped environment, iterating weekly with the stakeholder.
 
----
-
-## 💼 Experience
-
-### Full-Stack Developer, Practicum (4 months)
-*Government security organization*
-
-- Co-built a **project budget management system**: ASP.NET Core Web API (C#, MongoDB, Repository pattern, DI) with a React frontend and an analytics dashboard.
-- Worked in a **fully air-gapped environment** under strict security constraints, with no internet access during development.
-- Iterated **weekly with the stakeholder**, adapting the system to evolving requirements.
-- Aligned the code with the organization's existing project structure and conventions so it would run reliably across all of their environments.
-
----
-
-## 🧰 Tech Stack
+<details>
+<summary><b>🧰 Tech Stack</b></summary>
 
 | Area | Technologies |
 |---|---|
@@ -35,9 +22,10 @@ I build end-to-end systems: APIs, data layers and user interfaces, and I've work
 | **Tools** | GitHub, Visual Studio, VS Code, IntelliJ, Eclipse, PyCharm, Jupyter, SSMS, uv |
 | **AI-assisted development** | GitHub Copilot, Claude, ChatGPT, Gemini |
 
----
+</details>
 
-## 🚀 Featured Projects
+<details>
+<summary><b>🚀 More about my projects</b></summary>
 
 ### 🧩 [Learn Budget Microservices](https://github.com/sara-simi-git/Learn_Budget_Microservices)
 A distributed .NET system for course enrollment, built to demonstrate production-style architecture.
@@ -103,9 +91,10 @@ A team task board: team heads create tasks, members claim them and mark them fin
 
 **Stack:** Python, Django, SQLite
 
----
+</details>
 
-## 🎓 Education
+<details>
+<summary><b>🎓 Education</b></summary>
 
 **Software Engineering, Technological Certificate (MAHAT)** · 2024–2026
 Beth Jacob Seminary, Jerusalem · **Average: 96**
@@ -114,15 +103,4 @@ Invested seriously in every project and received excellent feedback from lecture
 **High School Diploma (with honors)** · 2020–2024
 Beth Jacob High School, Jerusalem
 
----
-
-## 💡 How I work
-
-- **From requirements to working software:** during my practicum I iterated weekly with the stakeholder as requirements evolved.
-- **Structure and security by default:** layered architecture, JWT and role-based access, hashed passwords, and documented design decisions (ADRs).
-- **Easy to run:** my backend projects start with a single `docker compose up`.
-- **AI, applied:** RAG, agents and MCP integrations built as working applications, with a human approval step where it matters.
-
----
-
-📫 **Let's talk:** [sarasimihaloua@gmail.com]
+</details>
